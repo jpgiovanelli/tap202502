@@ -1,5 +1,7 @@
 package ex05;
 
-class Ave {
-    // Atributos e métodos comuns a todas as aves
+public class Ave {
+    public void bicar() {
+        System.out.println("Bicando...");
+    }
 }
